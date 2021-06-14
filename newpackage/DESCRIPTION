@@ -1,0 +1,11 @@
+Package: newpackage
+Type: Package
+Title: This Package Combines Head With a Number of Columns Arguments
+Version: 0.1.0
+Author: Sheila Amoafo
+Maintainer: Sheila Amoafo <amoafosheila@outlook.com>
+Description: This Package combines head with a number of columns arguments
+License: use_mit_license
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
